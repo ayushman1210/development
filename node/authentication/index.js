@@ -1,5 +1,6 @@
 const express =require('express')
-
+const jwt=require('jsonwebtoken')
+const JWT_SECRET="manlovesyani"
 const app=express();
 
 
@@ -40,10 +41,11 @@ app.post('/signup',(req,res)=>{
         if (username==user[i].username && password==user[i].password){founduser=user[i];}
     }
      if(founduser){
-        const token=tokener();
+        const token=jwt.sign({username:username},JWT_SECRET)
         founduser.token=token;
         res.json({
             user:founduser,
+            token:token
         })
      }
      else{
@@ -57,12 +59,18 @@ app.post('/signup',(req,res)=>{
 
 app.get('/me',(req,res)=>{
     const token=req.headers.token;
+    const decoded=jwt.verify(token,JWT_SECRET)
+    const username=decoded.username
+
+    let founduser=null;
+
 for(let i=0; i<user.length; i++){
-        if (token==user[i].token )
+        if (username==user[i].username ){founduser=user[i]}
     
-     if(user){
+     if(founduser){
         res.json({
-          user:user
+          user:founduser.username,
+          password:founduser.password
         })
      }
      else{
