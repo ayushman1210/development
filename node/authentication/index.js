@@ -53,8 +53,6 @@ app.post('/signup',(req,res)=>{
             message:"invalid user and password"
         })
      }
-       console.log(user);
-
 })
 
 app.get('/me',(req,res)=>{
