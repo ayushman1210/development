@@ -14,8 +14,7 @@ const User= new Schema({
 
 const Todo=new Schema({
     userId:objectId,
-    Title:String,
-    password:String
+    title:String,
 });
 
 const userModel=mongoose.model('user',User);

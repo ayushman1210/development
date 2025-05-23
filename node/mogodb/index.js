@@ -11,6 +11,22 @@ app.get('/',(req,res)=>{
     res.send('hello welcome to mongodb ')
 })
 
+function auth(req,res,next){
+const token=req.headers.token;
+const decodedata=jwt.verify(token,JWT_SECRET)
+if(decodedata){
+    req.userId=decodedata.userId;
+    console.log(decodedata.userId)
+    next();
+}
+else{
+    res.json({
+    message:"credential wrong "
+    })
+}
+}
+
+
 app.post('/signin',async(req,res)=>{
 const {email,password,name}=req.body 
 
@@ -33,9 +49,10 @@ res.json({
 app.post('/signup',async(req,res)=>{
     const {email,password}=req.body 
    const user=await userModel.findOne({email:email,password:password})
+//    console.log(user._id);
     if(user){
         const token=jwt.sign({
-            id:user._id
+            userId:user._id.toString()
         },   JWT_SECRET);
         res.json({
             token:token
@@ -48,13 +65,30 @@ app.post('/signup',async(req,res)=>{
     }
 })
 
-app.post('/todo',(req,res)=>{
-
+app.post('/todo',auth,async(req,res)=>{
+    const userId=req.userId
+const {title}=req.body;
+const todo=await todomodel.create({
+    title:title,
+    userId: new mongoose.Types.ObjectId(userId)
+})
+res.json({
+   todo
+})
 })
 
-app.get('todos',(req,res)=>{
-    
+app.get('/todos',auth,async(req,res)=>{
+    const userId=req.userId
+    console.log(userId);
+    const find=await todomodel.find({
+        userId: new mongoose.Types.ObjectId(userId),
+    })
+    console.log(find);
+    res.json({
+        find
+    })
 })
+
 
 app.listen(3000,async()=>{
     console.log("server started")
