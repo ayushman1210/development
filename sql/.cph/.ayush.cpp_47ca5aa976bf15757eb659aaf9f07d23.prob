@@ -1,0 +1,1 @@
+{"name":"Local: ayush","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\sql\\ayush.cpp","tests":[{"id":1757288647396,"input":"7\n8 1\n1 8\n7 7\n2 6\n9 16\n1 6\n4 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\sql\\ayush.cpp","group":"local","local":true}
