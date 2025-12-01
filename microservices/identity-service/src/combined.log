@@ -1,0 +1,253 @@
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-19T19:18:25.596Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-19T19:19:02.947Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-19T19:20:32.092Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-19T19:21:00.859Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-19T19:21:16.866Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:49:24.887Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:49:48.634Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:50:06.036Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:50:08.851Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:50:28.631Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T12:54:25.349Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T12:54:25.462Z"}
+{"level":"error","message":"registration error occured ","service":"identity-service","timestamp":"2025-08-20T12:54:25.465Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T12:56:11.431Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T12:56:11.435Z"}
+{"level":"error","message":"registration error occured ","service":"identity-service","timestamp":"2025-08-20T12:56:11.437Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:57:07.551Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:57:26.947Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:57:29.491Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:57:40.819Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:57:57.928Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T12:58:02.390Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T12:58:02.409Z"}
+{"level":"error","message":"registration error occured ","service":"identity-service","timestamp":"2025-08-20T12:58:02.411Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:58:41.756Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T12:58:47.548Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T12:58:47.570Z"}
+{"level":"error","message":"registration error occured ","service":"identity-service","timestamp":"2025-08-20T12:58:47.570Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T12:59:41.498Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T12:59:52.993Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T12:59:53.031Z"}
+{"level":"error","message":"registration error occured ","service":"identity-service","timestamp":"2025-08-20T12:59:53.034Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:00:34.307Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:01:17.545Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:01:18.298Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:01:18.315Z"}
+{"level":"error","message":"registration error occured  Joi.string.min is not a function","service":"identity-service","stack":"TypeError: Joi.string.min is not a function\n    at validateregister (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\utils\\validation.js:7:22)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:16:18)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-08-20T13:01:18.318Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:02:07.153Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:02:25.715Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:02:25.738Z"}
+{"level":"error","message":"registration error occured  Cannot read properties of undefined (reading '0')","service":"identity-service","stack":"TypeError: Cannot read properties of undefined (reading '0')\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:18:59)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:186:3)","timestamp":"2025-08-20T13:02:25.759Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:06:03.906Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:06:13.074Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:06:13.173Z"}
+{"level":"error","message":"registration error occured  First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.","service":"identity-service","stack":"TypeError: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.\n    at model.Model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:123:11)\n    at new model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:4826:15)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:38:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:06:13.565Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:08:34.403Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:09:07.287Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:09:07.682Z"}
+{"level":"error","message":"registration error occured  First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.","service":"identity-service","stack":"TypeError: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.\n    at model.Model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:123:11)\n    at new model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:4826:15)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:38:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:09:08.062Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:10:47.645Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:10:48.007Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:10:48.091Z"}
+{"level":"error","message":"registration error occured  First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.","service":"identity-service","stack":"TypeError: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.\n    at model.Model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:123:11)\n    at new model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:4826:15)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:38:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:10:48.416Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:12:24.170Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:13:15.603Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:13:15.774Z"}
+{"level":"error","message":"registration error occured  First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.","service":"identity-service","stack":"TypeError: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.\n    at model.Model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:123:11)\n    at new model (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:4826:15)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:38:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:13:16.067Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:15:49.395Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:15:51.056Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:15:51.078Z"}
+{"buffer":{"data":[104,165,202,135,84,245,241,84,138,138,193,104],"type":"Buffer"},"level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:15:51.371Z"}
+{"level":"error","message":"registration error occured  refreshtoken.create is not a function","service":"identity-service","stack":"TypeError: refreshtoken.create is not a function\n    at generate (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\utils\\generatetoken.js:15:20)\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:42:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:15:51.385Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:17:35.282Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:18:00.025Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:18:24.390Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:18:27.958Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:18:27.977Z"}
+{"level":"error","message":"registration error occured  Cannot read properties of undefined (reading 'details')","service":"identity-service","stack":"TypeError: Cannot read properties of undefined (reading 'details')\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:31:53)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:18:28.057Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:19:49.999Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:19:52.931Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:19:52.949Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:19:52.999Z"}
+{"level":"error","message":"registration error occured  Cannot read properties of undefined (reading 'details')","service":"identity-service","stack":"TypeError: Cannot read properties of undefined (reading 'details')\n    at register (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:33:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-08-20T13:19:53.001Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:20:23.686Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:20:26.125Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:20:26.134Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:20:26.158Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:20:43.180Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:20:43.241Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:20:43.335Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:24:21.398Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:24:21.404Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:24:21.419Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:25:47.457Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:25:57.714Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:26:21.860Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:26:47.277Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:26:55.642Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:27:01.978Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:27:02.002Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:27:02.058Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:27:12.115Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:27:12.120Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:27:12.132Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:27:55.228Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:28:39.172Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:37:42.129Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:37:49.485Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:37:49.622Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:37:49.890Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:39:47.274Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:39:55.554Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:39:55.593Z"}
+{"buffer":{"data":[104,165,208,43,4,8,131,126,63,79,88,110],"type":"Buffer"},"level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:39:55.922Z"}
+{"_message":"Refresh validation failed","errors":{"expiresAt":{"kind":"required","message":"Path `expiresAt` is required.","name":"ValidatorError","path":"expiresAt","properties":{"message":"Path `expiresAt` is required.","path":"expiresAt","type":"required"}}},"level":"error","message":"registration error occured  Refresh validation failed: expiresAt: Path `expiresAt` is required.","service":"identity-service","stack":"ValidationError: Refresh validation failed: expiresAt: Path `expiresAt` is required.\n    at Document.invalidate (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3358:32)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3119:17\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-08-20T13:39:55.951Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:41:40.066Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:42:45.160Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:43:00.514Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:43:00.631Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-20T13:43:00.875Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:43:57.461Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:43:57.489Z"}
+{"0":"6","1":"8","10":"8","11":"4","12":"d","13":"7","14":"2","15":"5","16":"b","17":"b","18":"3","19":"e","2":"a","20":"e","21":"d","22":"f","23":"8","3":"5","4":"d","5":"1","6":"1","7":"d","8":"9","9":"1","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:43:58.466Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:46:58.370Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:47:07.524Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:47:07.718Z"}
+{"0":"6","1":"8","10":"c","11":"7","12":"c","13":"7","14":"e","15":"f","16":"2","17":"b","18":"f","19":"9","2":"a","20":"9","21":"3","22":"e","23":"6","3":"5","4":"d","5":"1","6":"d","7":"c","8":"a","9":"d","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:47:10.151Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:47:28.667Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:48:54.215Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:49:08.433Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:49:22.939Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:49:22.966Z"}
+{"0":"6","1":"8","10":"1","11":"e","12":"2","13":"b","14":"c","15":"e","16":"a","17":"f","18":"a","19":"e","2":"a","20":"0","21":"e","22":"0","23":"d","3":"5","4":"d","5":"2","6":"6","7":"3","8":"0","9":"5","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:49:23.335Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:50:01.941Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:52:43.283Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:52:52.721Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:52:52.756Z"}
+{"0":"6","1":"8","10":"1","11":"a","12":"9","13":"b","14":"4","15":"2","16":"0","17":"e","18":"9","19":"6","2":"a","20":"7","21":"2","22":"7","23":"2","3":"5","4":"d","5":"3","6":"3","7":"4","8":"6","9":"1","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:52:52.982Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:54:18.053Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:54:42.470Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:54:42.479Z"}
+{"0":"6","1":"8","10":"1","11":"e","12":"f","13":"6","14":"c","15":"3","16":"9","17":"9","18":"4","19":"c","2":"a","20":"e","21":"0","22":"c","23":"c","3":"5","4":"d","5":"3","6":"a","7":"2","8":"b","9":"8","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:54:42.617Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:56:30.476Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-20T13:56:32.931Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-20T13:56:41.886Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-20T13:56:41.894Z"}
+{"0":"6","1":"8","10":"c","11":"f","12":"8","13":"6","14":"c","15":"d","16":"0","17":"9","18":"f","19":"a","2":"a","20":"4","21":"6","22":"b","23":"a","3":"5","4":"d","5":"4","6":"1","7":"9","8":"b","9":"a","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-20T13:56:42.048Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:06:35.175Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-24T13:06:47.568Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-24T13:06:47.581Z"}
+{"0":"6","1":"8","10":"c","11":"3","12":"b","13":"c","14":"b","15":"3","16":"9","17":"b","18":"5","19":"3","2":"a","20":"c","21":"8","22":"9","23":"c","3":"b","4":"0","5":"e","6":"6","7":"7","8":"5","9":"c","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-24T13:06:47.914Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:08:14.538Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:09:03.147Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:09:16.851Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:09:43.786Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:10:03.147Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:10:12.797Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:10:40.080Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:10:57.363Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:12:44.173Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:13:18.361Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:13:43.891Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:14:15.129Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:14:28.056Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:14:43.758Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:14:49.805Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:14:52.033Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:15:17.842Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:15:56.794Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:16:01.505Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:16:13.006Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:16:29.674Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:16:34.676Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:16:52.699Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:17:01.759Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:17:12.904Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:17:29.123Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:18:06.003Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:18:21.832Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:19:00.792Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:21:01.128Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T13:22:36.747Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T13:22:36.772Z"}
+{"level":"error","message":"registration error occured  validatelogin is not defined","service":"identity-service","stack":"ReferenceError: validatelogin is not defined\n    at login (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:62:23)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:186:3)","timestamp":"2025-08-24T13:22:36.777Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:24:15.849Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T13:24:19.614Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T13:24:19.657Z"}
+{"level":"error","message":"registration error occured  validatelogin is not defined","service":"identity-service","stack":"ReferenceError: validatelogin is not defined\n    at login (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:62:23)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:186:3)","timestamp":"2025-08-24T13:24:19.740Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:25:01.663Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T13:25:13.801Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T13:25:13.811Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:25:31.657Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T13:25:38.568Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T13:25:38.578Z"}
+{"level":"error","message":"registration error occured  validatelogin is not defined","service":"identity-service","stack":"ReferenceError: validatelogin is not defined\n    at login (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\src\\controller\\identitycontroller.js:62:23)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\Dell\\OneDrive\\Desktop\\microservices\\identity-service\\node_modules\\router\\index.js:186:3)","timestamp":"2025-08-24T13:25:38.581Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T13:26:27.913Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T13:26:34.551Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T13:26:34.564Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:18:28.024Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-24T14:19:57.851Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-24T14:19:57.864Z"}
+{"level":"warn","message":"user already exist ","service":"identity-service","timestamp":"2025-08-24T14:19:57.928Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T14:20:01.997Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T14:20:01.999Z"}
+{"level":"info","message":"recieved POST and /api/auth/login ","service":"identity-service","timestamp":"2025-08-24T14:21:00.427Z"}
+{"level":"info","message":"login is happening ","service":"identity-service","timestamp":"2025-08-24T14:21:00.428Z"}
+{"level":"info","message":"recieved POST and /api/auth/register ","service":"identity-service","timestamp":"2025-08-24T14:22:49.941Z"}
+{"level":"info","message":"registration endpoint ","service":"identity-service","timestamp":"2025-08-24T14:22:49.944Z"}
+{"0":"6","1":"8","10":"2","11":"f","12":"f","13":"9","14":"3","15":"7","16":"2","17":"b","18":"0","19":"e","2":"a","20":"8","21":"e","22":"0","23":"7","3":"b","4":"2","5":"0","6":"3","7":"9","8":"3","9":"0","level":"warn","message":"user saved successfully ","service":"identity-service","timestamp":"2025-08-24T14:22:50.113Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:23:13.393Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:23:16.558Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:23:43.906Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:23:45.725Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T14:23:52.532Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:16:03.236Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:16:49.091Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:17:14.748Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:18:17.108Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:18:23.296Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:19:18.468Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:19:26.828Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:19:49.393Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:20:49.769Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:21:20.098Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:21:27.001Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:21:48.824Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:22:15.813Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:22:22.403Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:22:26.217Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:22:32.087Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:24:01.563Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:24:34.658Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:25:08.800Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:25:32.786Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:26:03.293Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:26:42.624Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:05.680Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:08.595Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:21.087Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:24.191Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:44.356Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:27:50.867Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:28:11.481Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:28:16.336Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:28:24.717Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:30:20.138Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:30:33.083Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:30:36.924Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:30:41.100Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:31:01.684Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:31:30.044Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:31:32.928Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:33:01.754Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:33:15.543Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:33:31.702Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:33:48.224Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:34:12.146Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:34:58.950Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:35:06.857Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:35:19.141Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:35:30.851Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:35:48.019Z"}
+{"level":"info","message":"connected to the databases ","service":"identity-service","timestamp":"2025-08-24T15:36:03.787Z"}
