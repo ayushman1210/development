@@ -1,0 +1,42 @@
+const product=[
+    {
+        id:"1",
+        title:"watch",
+        category:"accessory",
+        price:990,
+        instock:true
+    },
+
+      {
+        id:"2",
+        title:"phone",
+        category:"technology",
+        price:990,
+        instock:true
+    },
+      {
+        id:"3",
+        title:"momo",
+        category:"food",
+        price:990,
+        instock:false
+    }
+,
+      {
+        id:"4",
+        title:"iphone",
+        category:"Apple",
+        price:990,
+        instock:true
+    }
+,
+      {
+        id:"5",
+        title:"Pant",
+        category:"clothes",
+        price:990,
+        instock:false
+    }
+]
+
+module.exports=product;

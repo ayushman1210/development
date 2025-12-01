@@ -1,0 +1,1 @@
+{"name":"Local: football","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\Golang\\football.cpp","tests":[{"id":1744718340007,"input":"00000001111111\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\Golang\\football.cpp","group":"local","local":true}

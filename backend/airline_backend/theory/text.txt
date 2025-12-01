@@ -1,0 +1,54 @@
+we need to build a backend system that can support  different feature for an airline company
+end user is going to be someone 
+--> book flight 
+-->query about flight
+--> user can search flight from one place to another 
+source and destination details
+select date of the journey 
+future user should be able to search for the return flights and multi city flights 
+user should be able to the class of the flights 
+user should be able to request and book for extra luggage 
+able to select no of the seats 
+list down the flights 
+we should show user the best flight based on the price
+can cancel the flight 
+pagination that we can list chunk of flights at one point of time 
+// we can add support for more filter 
+we should filter flights based on the price dept time duration 
+tracking flight prices and user notified on any price drops 
+user can maake dummy payment 
+user able to lsit previous and upcomming flights
+online check in mechnaism should be supported 
+notification via  email checkin before 3 hour 
+notification of flight delay 
+review the flight journey if the booked (star rating along with comments )
+display review of the flights 
+user should able to authenticate using email and password 
+// support ticketing 
+listing faq which will be static data
+// prepare seat selection 
+coupons for discount and offers 
+while making a booking person can reserve than one seat with one login id 
+
+
+non functionsl requirement 
+we are going to have more flight serch than flight bookings
+system need to be accurate in term of booking 
+except that we will be approx 100000 total user 
+so in one day we can except 2000 bookings 
+system should be capable of scaling up to 3x to current extimated price 
+concurrency should be handles using rdbms should be good solution 
+
+capacity estimation 
+storage estimates--> 5 years 4000000 booking 200000 users considering all the user record and
+booking records take 10mb of data the overall data is around 1TB of memory for our intial 
+pilot run 
+traffic estimates--> if we consider 15:1 booking ratio then at max around 30000 query a day 
+
+
+search and flight services 
+create flight
+delete flight
+update flight 
+search for flight 
+pagination
